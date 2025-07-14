@@ -1,0 +1,6 @@
+; frutas comuns
+banana
+maça
+laranja
+uva
+abacaxi

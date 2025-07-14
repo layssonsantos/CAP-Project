@@ -1,0 +1,6 @@
+; animais terrestres
+cachorro
+gato
+elefante
+leao
+girafa

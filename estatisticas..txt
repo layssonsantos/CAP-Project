@@ -1,0 +1,3 @@
+animais:0
+frutas:0
+paises:0

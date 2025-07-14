@@ -1,0 +1,6 @@
+; países do mundo
+brasil
+argentina
+canada
+japao
+australia
