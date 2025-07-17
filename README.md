@@ -6,7 +6,7 @@
 
 * **Temas Dinâmicos**: palavras em arquivos texto (`palavras/animais.txt`, etc.)
 * **Jogo Interativo**: gráficos ASCII, 7 estágios da forca, controle de tentativas e letras usadas
-* Matrizes (arrays 2D) como char lista[`MAX_PALAVRAS`][`MAX_LINHA`] para armazenar listas de palavras e hangman_stages para ASCII art
+* **Matrizes**: (arrays 2D) como char lista[`MAX_PALAVRAS`][`MAX_LINHA`] para armazenar listas de palavras e hangman_stages para ASCII art
 * **Dificuldades**: Fácil (10 tentativas), Médio (7), Difícil (5)
 * **Placar Persistente**: armazena e acumula pontuação por jogador em `placar.dat` (binário)
 * **Estatísticas de Tema**: conta partidas jogadas por tema em `estatisticas.txt`
