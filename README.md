@@ -26,4 +26,4 @@
 gcc -o forca forca.c
 ./forca
 ```
-*Desenvolvido em C para praticar leitura de arquivos, manipulação de dados e modularização.*
+*Desenvolvido em C para praticar conhecimentos adquiridos na disciplina de Construção de Algoritmos e Programação.*
