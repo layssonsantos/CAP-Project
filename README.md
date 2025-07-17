@@ -26,4 +26,10 @@
 gcc -o forca forca.c
 ./forca
 ```
+
+## Integrantes:
+- **Laysson Santos** – 800349
+- **Ana Caroline de Souza** – 833177
+
 *Desenvolvido em C para praticar conhecimentos adquiridos na disciplina de Construção de Algoritmos e Programação.*
+
